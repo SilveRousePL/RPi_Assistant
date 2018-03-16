@@ -1,0 +1,1 @@
+set sysroot /home/darek/EclipseProjects/@RPi_Tools/arm-bcm2708/arm-linux-gnueabihf
